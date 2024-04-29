@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [github.com](github.com/SamT727)
 
-- ⚡ Fun fact **I am called Sam, 98.1 people named samuel for every 100,000 Americans, thats a lot of americcans**
+- ⚡ Fun fact **I am called Sam, 98.1 people are named samuel for every 100,000 Americans, thats a lot of americans**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
