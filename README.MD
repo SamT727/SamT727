@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with [pulling](tinder.com)
 
-- 👨‍💻 All of my projects are available at [github.com](github.com)
+- 👨‍💻 All of my projects are available at [github.com](github.com/SamT727)
 
 - 💬 Ask me about **my accomplishments such as beating ttfaf on guitar hero 💪**
 
 - 📫 How to reach me **samjackt@gmail.com or Rer0und on roblox**
 
-- 📄 Know about my experiences [github.com](github.com)
+- 📄 Know about my experiences [github.com](github.com/SamT727)
 
 - ⚡ Fun fact **I am called Sam, 98.1 people named samuel for every 100,000 Americans, thats a lot of americcans**
 
