@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com](github.com/SamT727)
 
-- 💬 Ask me about **my accomplishments such as beating ttfaf on guitar hero 💪**
+- 💬 Ask me about **skibidi toilet**
 
 - 📫 How to reach me **samjackt@gmail.com or Rer0und on roblox**
 
