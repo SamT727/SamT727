@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on [Roblox](www.roblox.com)
+- 👯 I’m looking to collaborate on [Roblox](https://www.roblox.com/)
 
 - 🤝 I’m looking for help with [pulling](tinder.com)
 
