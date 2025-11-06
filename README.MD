@@ -1,21 +1,11 @@
-<h1 align="center">hi me sam</h1>
+<h1 align="center">hi </h1>
 <h3 align="center">Professional slacker</h3>
 
-- 🔭 I’m currently working on [passing my course](https://www.mbro.ac.uk/)
+- 🔭 I’m currently working on [passing my course](https://www.lancaster.ac.uk/)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **C & Python**
 
-- 👯 I’m looking to collaborate on [Roblox](https://www.roblox.com/)
-
-- 🤝 I’m looking for help with [pulling](tinder.com)
-
-- 👨‍💻 All of my projects are available at [github.com](github.com/SamT727)
-
-- 💬 Ask me about **skibidi toilet**
-
-- 📫 How to reach me **samjackt@gmail.com or Rer0und on roblox**
-
-- 📄 Know about my experiences [github.com](github.com/SamT727)
+- 📫 How to reach me **samjacktaylor23@gmail.com**
 
 - ⚡ Fun fact **I am called Sam, 98.1 people are named samuel for every 100,000 Americans, thats a lot of americans**
 
