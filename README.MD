@@ -1,12 +1,12 @@
 <h3 align="center">hi there</h3>
 
-- 🔭 I’m currently working on [passing my course](lancaster.ac.uk)
+- I'm Sam. A university student at Lancaster University studying Computer science and Management
 
-- 🌱 I’m currently learning **C & Python**
+- I’m currently working on [passing my course](lancaster.ac.uk)
 
-- 📫 How to reach me **samjacktaylor23@gmail.com**
+- I’m currently learning **C & Python**
 
-- ⚡ Fun fact **I am called Sam, 98.1 people are named sam for every 100,000 Americans, thats a lot of americans**
+- You can reach me at **samjacktaylor23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
