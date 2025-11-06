@@ -1,4 +1,4 @@
-<h3 align="center">p</h3>
+<h3 align="center">hi there</h3>
 
 - 🔭 I’m currently working on [passing my course](lancaster.ac.uk)
 
