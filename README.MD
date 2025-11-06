@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **samjacktaylor23@gmail.com**
 
-- ⚡ Fun fact **I am called Sam, 98.1 people are named samuel for every 100,000 Americans, thats a lot of americans**
+- ⚡ Fun fact **I am called Sam, 98.1 people are named sam for every 100,000 Americans, thats a lot of americans**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
