@@ -1,8 +1,8 @@
 <h3 align="center">hi there</h3>
 
-- I'm Sam. A university student at Lancaster University studying Computer science and Management
+- I'm Sam. A university student at Lancaster University studying Information Technology and Business Management
 
-- I’m currently learning **C & Python**
+- I’m currently learning <**C & Python**>
 
 
 
